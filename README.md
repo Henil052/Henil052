@@ -33,9 +33,14 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="[https://www.linkedin.com/in/henil-patel](https://www.linkedin.com/in/henil-patel-a3798a281/)" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:henilpatel@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="gmail" height="25" width="35" /></a>
+  <a href="https://www.linkedin.com/in/henil-patel-a3798a281/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="mailto:henilpatel@gmail.com">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="gmail" height="25" width="35" />
+  </a>
 </p>
+
 
 ---
 
