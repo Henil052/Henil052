@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="372" viewBox="0 0 1024 372" role="img" aria-labelledby="title desc">
+<title id="title">Henil Patel — Computer Science at the University of Alberta</title>
+<desc id="desc">Original vector artwork for Henil Patel's GitHub profile. Motion is disabled when reduced motion is preferred.</desc>
+<style>
+text{font-family:Arial,Helvetica,sans-serif}
+.mono{font-family:Consolas,'Liberation Mono',monospace}
+.flow{stroke-dasharray:5 13;animation:flow 18s linear infinite}
+.pulse{animation:pulse 4s ease-in-out infinite}
+.cursor{animation:blink 1.15s steps(1) infinite}
+.reveal{animation:typing 12s steps(25,end) infinite}
+.type-cursor{transform:translateX(216px);animation:tracking 12s steps(25,end) infinite,blink 1.15s steps(1) infinite}
+@keyframes flow{to{stroke-dashoffset:-216}}
+@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+@keyframes blink{0%,48%{opacity:1}49%,100%{opacity:0}}
+@keyframes typing{0%,8%{width:0}36%,84%{width:216px}96%,100%{width:0}}
+@keyframes tracking{0%,8%{transform:translateX(0)}36%,84%{transform:translateX(216px)}96%,100%{transform:translateX(0)}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}.reveal{width:310px}.cursor,.type-cursor{opacity:0}}
+</style>
+<defs>
+ <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#82a9c9" opacity=".14"/></pattern>
+ <radialGradient id="aura"><stop stop-color="#1c6d77" stop-opacity=".20"/><stop offset="1" stop-color="#0c1727" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x=".5" y=".5" width="1023" height="371" rx="19" fill="#0c1727" stroke="#2e455d"/>
+<rect x="1" y="1" width="1022" height="370" rx="19" fill="url(#dots)"/>
+<ellipse cx="830" cy="115" rx="250" ry="210" fill="url(#aura)"/>
+<path d="M44 1H182" stroke="#67e8dc" stroke-width="3"/>
+<circle class="pulse" cx="49" cy="46" r="4" fill="#67e8dc"/>
+<text class="mono" x="63" y="50" font-size="11" letter-spacing="2" fill="#9db5cc">HELLO, WORLD. I'M</text>
+<text x="42" y="141" font-weight="700" font-size="67" letter-spacing="-3" fill="#f3f7fd">Henil Patel<tspan fill="#67e8dc">.</tspan></text>
+<text x="45" y="180" font-size="18" fill="#c6d5e5">Computer Science @ University of Alberta</text>
+<text x="45" y="224" font-size="17" fill="#93a9c2">Turning curiosity into code.</text>
+<text x="45" y="249" font-size="17" fill="#93a9c2">Learning how the pieces fit together.</text>
+<path d="M553 274V317H693L712 336H981" fill="none" stroke="#2d5265"/>
+<path class="flow" d="M553 274V317H693L712 336H981" fill="none" stroke="#67e8dc" stroke-opacity=".55"/>
+<circle cx="553" cy="274" r="4" fill="#67e8dc"/>
+<circle cx="981" cy="336" r="3" fill="#67e8dc"/>
+<text class="mono" x="44" y="341" font-size="10" fill="#7e94ae" letter-spacing="1.4">SOFTWARE / DATA / EXPLORATION</text>
+<text class="mono" x="980" y="50" text-anchor="end" font-size="10" fill="#7e94ae" letter-spacing="1.1">HENIL052 / GITHUB</text>
+<g transform="translate(44 281)"><rect width="99" height="28" rx="14" fill="#142638" stroke="#294459"/><text class="mono" x="49.5" y="18" text-anchor="middle" fill="#c3d7e9" font-size="10" letter-spacing="1">BACKEND</text></g><g transform="translate(151 281)"><rect width="113" height="28" rx="14" fill="#142638" stroke="#294459"/><text class="mono" x="56.5" y="18" text-anchor="middle" fill="#c3d7e9" font-size="10" letter-spacing="1">DATABASES</text></g><g transform="translate(272 281)"><rect width="91" height="28" rx="14" fill="#142638" stroke="#294459"/><text class="mono" x="45.5" y="18" text-anchor="middle" fill="#c3d7e9" font-size="10" letter-spacing="1">AI / ML</text></g>
+<g transform="translate(574 82)">
+ <rect x="0" y="8" width="406" height="220" rx="15" fill="#02080f" opacity=".35"/>
+ <rect width="406" height="220" rx="15" fill="#101e30" stroke="#31465d"/>
+ <path d="M0 38H406" stroke="#2b3f54"/>
+ <circle cx="19" cy="19" r="4" fill="#ff8175"/>
+ <circle cx="35" cy="19" r="4" fill="#edc16f"/>
+ <circle cx="51" cy="19" r="4" fill="#5bd5bb"/>
+ <text class="mono" x="387" y="23" text-anchor="end" fill="#93a6bc" font-size="10">henil / workspace</text>
+ <text class="mono" x="21" y="72" fill="#67e8dc" font-size="14">~ $ whoami</text>
+ <text class="mono" x="21" y="97" fill="#e9f1fa" font-size="14">Computer Science student</text>
+ <text class="mono" x="21" y="122" fill="#a3b4c9" font-size="14">Python · Java · SQL</text>
+ <text class="mono" x="21" y="158" fill="#67e8dc" font-size="14">~ $ focus</text>
+ <clipPath id="typeClip"><rect class="reveal" x="0" y="0" width="310" height="26"/></clipPath>
+ <g transform="translate(21 173)" clip-path="url(#typeClip)">
+  <text class="mono" y="14" fill="#f3f7fd" font-size="14">Building useful software.</text>
+ </g>
+ <rect class="type-cursor" x="21" y="175" width="7" height="15" rx="1" fill="#67e8dc"/>
+</g></svg>

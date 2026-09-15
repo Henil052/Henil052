@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="106" viewBox="0 0 1024 106" role="img" aria-labelledby="title desc">
+<title id="title">Stay curious. Keep building.</title>
+<desc id="desc">Original vector artwork for Henil Patel's GitHub profile. Motion is disabled when reduced motion is preferred.</desc>
+<style>
+text{font-family:Arial,Helvetica,sans-serif}
+.mono{font-family:Consolas,'Liberation Mono',monospace}
+.flow{stroke-dasharray:5 13;animation:flow 18s linear infinite}
+.pulse{animation:pulse 4s ease-in-out infinite}
+.cursor{animation:blink 1.15s steps(1) infinite}
+.reveal{animation:typing 12s steps(25,end) infinite}
+.type-cursor{transform:translateX(216px);animation:tracking 12s steps(25,end) infinite,blink 1.15s steps(1) infinite}
+@keyframes flow{to{stroke-dashoffset:-216}}
+@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+@keyframes blink{0%,48%{opacity:1}49%,100%{opacity:0}}
+@keyframes typing{0%,8%{width:0}36%,84%{width:216px}96%,100%{width:0}}
+@keyframes tracking{0%,8%{transform:translateX(0)}36%,84%{transform:translateX(216px)}96%,100%{transform:translateX(0)}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}.reveal{width:310px}.cursor,.type-cursor{opacity:0}}
+</style>
+<rect x=".5" y=".5" width="1023" height="105" rx="13" fill="#0c1727" stroke="#2e455d"/>
+<path d="M30 54H235L250 39H341M683 67H772L787 52H994" fill="none" stroke="#29465c"/>
+<path class="flow" d="M30 54H235L250 39H341M683 67H772L787 52H994" fill="none" stroke="#67e8dc"/>
+<text x="512" y="50" text-anchor="middle" font-size="21" font-weight="600" fill="#e5f0fb">Stay curious. Keep building.</text>
+<text class="mono" x="512" y="74" text-anchor="middle" font-size="10" letter-spacing="1.8" fill="#93a9c2">HENIL PATEL</text>
+</svg>
