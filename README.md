@@ -121,7 +121,7 @@ Implemented and explored several cryptographic techniques, including:
     <img src="https://img.shields.io/badge/LinkedIn-Henil%20Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:henilpatel@gmail.com">
+  <a href="mailto:henilpatel0502@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
