@@ -107,25 +107,10 @@ Implemented and explored several cryptographic techniques, including:
 
 ## 📚 Currently Learning
 
-```text
-🌐 Modern Web Architecture
-🤖 Artificial Intelligence — Search & Planning
-🧠 Algorithms & Problem Solving
-🏗️ Backend & System Design
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Henil052&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Henil052&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henil052&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- 🌐 **Modern Web Architecture**
+- 🤖 **Artificial Intelligence — Search & Planning**
+- 🧠 **Algorithms & Problem Solving**
+- 🏗️ **Backend Development & System Design**
 
 ---
 
@@ -145,8 +130,6 @@ Implemented and explored several cryptographic techniques, including:
 
 <p align="center">
   <i>Always learning. Always building. 🚀</i>
-</p>
-
-<p align="center">
+  <br><br>
   ⭐ Thanks for visiting my profile!
 </p>
